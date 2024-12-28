@@ -36,22 +36,22 @@ cd calculator
 3.Compile and run the Java backend:
    
  javac Calculator.java
-java Calculator
+ java Calculator
 
-# Usage
+## Usage
 1.Open the index.html file in your web browser.
 2.Use the buttons to enter numbers and select arithmetic operations.
 3.Click the = button to see the result.
 4.Use the C button to clear the current input and the AC button to reset the calculator.
-# Project Structure
+## Project Structure
 calculator/
 │
 ├── index.html         # HTML file for the calculator UI
 ├── styles.css         # CSS file for styling the calculator
 ├── Calculator.java    # Java file containing the backend logic
 └── README.md          # Project README file
-# Contributing
+## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
-# License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
