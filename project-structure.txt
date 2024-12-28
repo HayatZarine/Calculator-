@@ -2,5 +2,7 @@ calculator/
 │
 ├── index.html         # HTML file for the calculator UI
 ├── styles.css         # CSS file for styling the calculator
-├── Calculator.java    # Java file containing the backend logic
-└── README.md          # Project README file
+├── script.js          # JavaScript file for the calculator logic
+├── README.md          # Project README file
+├── LICENSE            # License file for the project
+└── project-structure.txt # Project structure description file
