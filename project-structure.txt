@@ -1,0 +1,6 @@
+calculator/
+│
+├── index.html         # HTML file for the calculator UI
+├── styles.css         # CSS file for styling the calculator
+├── Calculator.java    # Java file containing the backend logic
+└── README.md          # Project README file
