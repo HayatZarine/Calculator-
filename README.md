@@ -1,4 +1,5 @@
 # Calculator
+![image](https://github.com/user-attachments/assets/4241deae-386f-477c-aeea-70817419fd66)
 
 This is a simple calculator application built using HTML, CSS, and Java. The calculator performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
